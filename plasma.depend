@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1452837394 source:d:\cb\plasma\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 d:\cb\plasma\allegrostart.h
+
+1452837394 source:f:\cb\plasma\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 f:\cb\plasma\allegrostart.h
+
+1452837496 source:f:\cb\plasma\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1452838394 source:d:\cb\plasma\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1452838394 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\plasma\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\plasma\allegrostart.h
+
+1452837394 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\plasma\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1466593663 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\plasma\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\plasma\allegrostart.h
+
+1466593684 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\plasma\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1466593684 source:i:\cb\plasma\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 i:\cb\plasma\allegrostart.h
+
+1466593696 source:i:\cb\plasma\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
